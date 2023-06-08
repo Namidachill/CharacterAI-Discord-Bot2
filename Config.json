@@ -1,0 +1,40 @@
+{
+  "discord_bot_token": "MTExNDE4OTI4NTQ1MzcyNTcwNg.Gc3Ozx.B4Bhe9DOYOhR3xK3dmNU_hWKwuCw63WMDDn9UQ",
+  "char_ai_user_token": "0b1abda283d3af5eca26f7ea5dc41aead83364f6",
+
+  "discord_bot_role": "Manage Character",
+  "discord_bot_prefixes": [ ".ai ", "!!" ],
+  "discord_private_category_name": "CAI PRIVATE CHANNELS",
+
+  "default_audience_mode": 4,
+  "audience_mode_quote_format": "((In response to: [{quote}]))\n",
+  "audience_mode_username_format": "[{username}] says: ",
+  "audience_mode_timestamp_format": "{timestamp}\n",
+  "default_no_permission_file": "nopower.gif",
+
+  "private_chat_role_required": false,
+  "use_character_avatar": true,
+  "use_character_name": true,
+  "description_in_playing_status": true,
+  "allow_dm": true,
+
+  "rate_limit": 10,
+  "default_replies_delay": 1,
+  "enable_swipe_buttons": true,
+  "enable_stop_button": true,
+  "buttons_remove_delay": 120,
+
+  "auto_setup": true,
+  "auto_char_id": "G99PeltNuPHOdYq728dcoXzf8fCmOQOy0fCr5KfWmZY",
+
+  "custom_chrome_directory": null,
+  "custom_chrome_executable_full_path": null,
+  "public_mode": false,
+  "hoster_discord_id": null,
+
+  "enable_translate_button": false,
+  "deepl_api_token": "",
+  "default_translate_language": "ru",
+
+  "discord_error_log_channel_id": null
+}
