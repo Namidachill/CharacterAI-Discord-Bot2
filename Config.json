@@ -1,6 +1,6 @@
 {
-  "discord_bot_token": "MTExNDE4OTI4NTQ1MzcyNTcwNg.Gc3Ozx.B4Bhe9DOYOhR3xK3dmNU_hWKwuCw63WMDDn9UQ",
-  "char_ai_user_token": "0b1abda283d3af5eca26f7ea5dc41aead83364f6",
+  "discord_bot_token": "",
+  "char_ai_user_token": "",
 
   "discord_bot_role": "Manage Character",
   "discord_bot_prefixes": [ ".ai ", "!!" ],
@@ -25,7 +25,7 @@
   "buttons_remove_delay": 120,
 
   "auto_setup": true,
-  "auto_char_id": "G99PeltNuPHOdYq728dcoXzf8fCmOQOy0fCr5KfWmZY",
+  "auto_char_id": "",
 
   "custom_chrome_directory": null,
   "custom_chrome_executable_full_path": null,
